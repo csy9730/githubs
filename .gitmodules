@@ -1,3 +1,9 @@
 [submodule "misc/plugin_template"]
 	path = misc/plugin_template
 	url = https://github.com/erhuabushuo/plugin_template
+[submodule "dnn/ludwig"]
+	path = dnn/ludwig
+	url = https://github.com/uber/ludwig
+[submodule "dnn/pytorch-lightning"]
+	path = dnn/pytorch-lightning
+	url = https://github.com/PyTorchLightning/pytorch-lightning
