@@ -11,3 +11,9 @@
 	path = dnn/nni
 	url = https://github.com/microsoft/nni
 	
+[submodule "dnn/darknet"]
+	path = dnn/darknet
+	url = https://github.com/pjreddie/darknet
+[submodule "dnn/caffe"]
+	path = dnn/caffe
+	url = https://github.com/BVLC/caffe
