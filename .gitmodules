@@ -17,3 +17,6 @@
 [submodule "dnn/caffe"]
 	path = dnn/caffe
 	url = https://github.com/BVLC/caffe
+[submodule "dnn/ell"]
+	path = dnn/ell
+	url = https://github.com/microsoft/ELL

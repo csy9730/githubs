@@ -7,6 +7,8 @@ git submodule add https://github.com/microsoft/nni dnn/nni
 git submodule add https://github.com/PyTorchLightning/pytorch-lightning dnn/pytorch-lightning
 git submodule add https://github.com/tzutalin/labelImg dnn/labelImg
 git submodule add https://github.com/pjreddie/darknet dnn/darknet
+git submodule add https://github.com/BVLC/caffe dnn/caffe
+git submodule add https://github.com/microsoft/ELL dnn/ell
 ```
 
 
