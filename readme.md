@@ -11,6 +11,16 @@ git submodule add https://github.com/BVLC/caffe dnn/caffe
 git submodule add https://github.com/microsoft/ELL dnn/ell
 ```
 
+* ludwig
+* nni
+* pytorch-lightning
+* labelImg
+* darknet
+* caffe
+* ell
+* labelImg
+* labelMe
+
 
  ``` ini
 [submodule "dnn/nni"]
@@ -29,3 +39,7 @@ git submodule add https://github.com/microsoft/ELL dnn/ell
 ## clone
 git submodule init
 git submodule update  [.gitmodules](.gitmodules) 
+
+
+www.github.com/pjreddie/darknet/archive/master.zip
+https://github.com/wkentaro/labelme
